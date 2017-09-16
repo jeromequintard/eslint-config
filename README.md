@@ -1,2 +1,3 @@
-# eslint-config
-Quelques configurations ESLint importés comme dépendance
+# eslint-config-osiki
+
+Définit les presets eslint utilisés dans Osiki.
